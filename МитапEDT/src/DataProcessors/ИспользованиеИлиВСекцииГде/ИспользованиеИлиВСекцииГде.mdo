@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="329151b1-f305-40db-8293-04bc41770e9a">
+  <producedTypes>
+    <objectType typeId="e590af6c-cf10-4f68-8e05-582d508fb019" valueTypeId="50c808db-3107-4f77-af7d-d1021cd17720"/>
+    <managerType typeId="37d79b8e-1536-49a3-af42-6c07bc1b04e0" valueTypeId="bd40719a-8522-429f-84d1-8ab2a9e392f6"/>
+  </producedTypes>
+  <name>ИспользованиеИлиВСекцииГде</name>
+  <synonym>
+    <key>ru</key>
+    <value>Использование или в секции где</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DataProcessor>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2126ce6f-2a1f-4563-a5dc-a71cbd4bc729">
+  <producedTypes>
+    <objectType typeId="33088b1c-5baf-4e4b-9dbf-c5454b0b682e" valueTypeId="643d097b-b627-42e8-9c85-ea13b2237b16"/>
+    <managerType typeId="e848eb2c-d2a1-4bbf-b121-8799b322607b" valueTypeId="eec12fda-c9d9-44a4-8444-84a55dfa0ab7"/>
+  </producedTypes>
+  <name>БлокЕсли</name>
+  <synonym>
+    <key>ru</key>
+    <value>Блок если</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DataProcessor>

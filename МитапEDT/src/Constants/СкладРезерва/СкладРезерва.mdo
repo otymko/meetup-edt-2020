@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="616fbbe7-d53f-45f3-b3d2-7f4e770c6ba5">
+  <producedTypes>
+    <managerType typeId="5ed0aa4f-22fc-492f-a023-8a0e29ed7147" valueTypeId="9ebe339a-ad66-46c2-8141-76b37d59f174"/>
+    <valueManagerType typeId="4665cef4-51a9-417f-9266-f0525f098622" valueTypeId="952f87e6-e225-4998-a936-bf180811adb1"/>
+    <valueKeyType typeId="40dd656d-3c1c-4634-bfdf-5f6f1491cfb7" valueTypeId="4b026322-b17e-4775-bd41-37ab05f8eaa7"/>
+  </producedTypes>
+  <name>СкладРезерва</name>
+  <synonym>
+    <key>ru</key>
+    <value>Склад резерва</value>
+  </synonym>
+  <type>
+    <types>CatalogRef.Склады</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

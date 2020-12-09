@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bb2f70f1-f761-47a1-a381-11f146264654">
+  <producedTypes>
+    <selectionType typeId="4b7b5be6-5ebc-4114-870b-929f3c550fc1" valueTypeId="6424b827-4f67-4744-a3fb-0d827314121b"/>
+    <listType typeId="8b21d6ef-a44c-40cb-a019-881de6da8495" valueTypeId="5931cbc9-f124-4583-90d1-4aec180ac46d"/>
+    <managerType typeId="b93f3f6a-c065-42a4-8449-338431332183" valueTypeId="c807fe9e-3c7e-46e5-8539-5b84e5edb840"/>
+    <recordSetType typeId="2c161548-33a5-4652-acc4-9b9ca9bde4f2" valueTypeId="f6272b3f-ac57-44c3-a08e-766d004e4d78"/>
+    <recordKeyType typeId="7921b386-8932-45c9-b912-8fe9f0e07245" valueTypeId="e0ec5a9b-7957-4996-b4c2-daf08d341a5d"/>
+    <recordType typeId="fe3107ac-dc82-4dfb-9dc3-922b72b2e88a" valueTypeId="8a1fca03-5e41-4eaf-ab7f-672c2a221b10"/>
+    <recordManagerType typeId="7d8b917a-b690-4eaa-9a0a-dbaa6a81bcc9" valueTypeId="da3cd79d-626c-44e4-ae07-5651d15eb876"/>
+  </producedTypes>
+  <name>fs_ИсторияЗаменыФлагаDiscontinued</name>
+  <synonym>
+    <key>ru</key>
+    <value>Fs история замены флага discontinued</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <dimensions uuid="87d76a5a-275e-444e-9e10-c170dac88ac8">
+    <name>Номенклатура</name>
+    <synonym>
+      <key>ru</key>
+      <value>Номенклатура</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+</mdclass:InformationRegister>

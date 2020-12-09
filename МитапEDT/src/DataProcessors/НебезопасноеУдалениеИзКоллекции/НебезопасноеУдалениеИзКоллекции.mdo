@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ba3a2f6f-9387-4d2f-bb74-35a40d4bab82">
+  <producedTypes>
+    <objectType typeId="3ac7ef39-c00a-4c59-afe1-fc4d488a82e3" valueTypeId="7bc2f5e7-c106-4974-8275-8865d75ac088"/>
+    <managerType typeId="5af596df-5a5e-47a5-a9bc-7c4b5066c6cb" valueTypeId="89885c39-2d9e-4f3e-a2f1-243421b2a7ad"/>
+  </producedTypes>
+  <name>НебезопасноеУдалениеИзКоллекции</name>
+  <synonym>
+    <key>ru</key>
+    <value>Небезопасное удаление из коллекции</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DataProcessor>

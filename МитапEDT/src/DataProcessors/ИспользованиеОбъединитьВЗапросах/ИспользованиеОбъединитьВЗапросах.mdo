@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f5d5033b-960c-4cb8-84aa-0840a63ca665">
+  <producedTypes>
+    <objectType typeId="ee262788-77e7-4aec-8ff4-80f91012c2b3" valueTypeId="a3eb9f9a-33ac-494f-abdd-a1695f3fa280"/>
+    <managerType typeId="040619eb-69e6-459b-b4c5-a9e733903f83" valueTypeId="b0b62c40-485a-4449-a9f8-54d02f658aa0"/>
+  </producedTypes>
+  <name>ИспользованиеОбъединитьВЗапросах</name>
+  <synonym>
+    <key>ru</key>
+    <value>Использование объединить в запросах</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DataProcessor>

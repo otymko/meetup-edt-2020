@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="453dc8c7-e9ac-458d-8c01-456742622532">
+  <name>SonarLintSB</name>
+  <synonym>
+    <key>ru</key>
+    <value>Sonar lint SB</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>DataProcessor.ХардкодПутей</content>
+  <content>DataProcessor.НебезопасноеУдалениеИзКоллекции</content>
+  <content>DataProcessor.ИспользованиеИлиВСекцииГде</content>
+  <content>Catalog.Склады</content>
+</mdclass:Subsystem>

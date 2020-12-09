@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3bbf300a-1632-4cfc-aaad-849f51fa164e">
+  <producedTypes>
+    <objectType typeId="4bb4ebc0-e2b7-4916-ba93-c344ee954047" valueTypeId="6b22c440-facc-4aa3-83a7-f39e51808697"/>
+    <managerType typeId="7945d1e6-f2f6-4196-bcd5-ef1f3238d9ba" valueTypeId="5ae12c3d-7b29-4f1b-85d3-0d36cb58b3ba"/>
+  </producedTypes>
+  <name>ХардкодПутей</name>
+  <synonym>
+    <key>ru</key>
+    <value>Хардкод путей</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DataProcessor>

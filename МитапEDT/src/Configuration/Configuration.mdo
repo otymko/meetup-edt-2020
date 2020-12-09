@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d8b09cad-55d3-4019-95ac-bba48a6dccc5">
+  <name>МитапEDT</name>
+  <synonym>
+    <key>ru</key>
+    <value>Митап EDT</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="342c12b2-6b20-4d5a-b264-f9b47367667d"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="5d0157a4-17c3-420c-aa9b-f874852e78bd"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="2e124103-9514-4c75-b2b4-09f2e7a4a80c"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="a72e82e0-58e1-4618-9822-703ab92b8f7e"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="8a5d3911-ea93-4812-8535-df09f9ab9034"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="b5b30e50-b103-4023-bd93-57e56026a36d"/>
+  <configurationExtensionCompatibilityMode>8.3.15</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.15</compatibilityMode>
+  <languages uuid="8ec3752d-e8c8-4062-ac2c-1f05cdc30ed2">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.SonarLintSB</subsystems>
+  <subsystems>Subsystem.BSLLS</subsystems>
+  <commonModules>CommonModule.СтроковыеФункцииКлиентСервер</commonModules>
+  <commonModules>CommonModule.ПроведениеСервер</commonModules>
+  <constants>Constant.СкладОсновной</constants>
+  <constants>Constant.СкладРезерва</constants>
+  <catalogs>Catalog.Склады</catalogs>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <documents>Document.ПодсаднойРегистратор</documents>
+  <enums>Enum.ЗначенияРеквизитаОкончанияПроизводства</enums>
+  <enums>Enum.СтавкиНДС</enums>
+  <dataProcessors>DataProcessor.ХардкодПутей</dataProcessors>
+  <dataProcessors>DataProcessor.НебезопасноеУдалениеИзКоллекции</dataProcessors>
+  <dataProcessors>DataProcessor.ИспользованиеИлиВСекцииГде</dataProcessors>
+  <dataProcessors>DataProcessor.БлокЕсли</dataProcessors>
+  <dataProcessors>DataProcessor.СоединениеСВложеннымиЗапросами</dataProcessors>
+  <dataProcessors>DataProcessor.ИспользованиеОбъединитьВЗапросах</dataProcessors>
+  <informationRegisters>InformationRegister.fs_ИсторияЗаменыФлагаDiscontinued</informationRegisters>
+  <accumulationRegisters>AccumulationRegister.ТоварыВЯчейках</accumulationRegisters>
+</mdclass:Configuration>

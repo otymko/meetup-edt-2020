@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="add2cac3-1b3d-404f-b953-dd58c062d302">
+  <producedTypes>
+    <objectType typeId="3a11be78-1aac-4341-a65f-abf9b225396d" valueTypeId="5446f583-6dec-4664-9a64-5bd9a79df906"/>
+    <refType typeId="1e81c7ab-1f81-4e27-8bdb-6491994bb02e" valueTypeId="643ebec5-9934-4269-9f7f-6d9c2b8393f7"/>
+    <selectionType typeId="cbd6151c-ba01-4aaa-98ec-c2cacc241c8f" valueTypeId="701e482a-f1f3-4b89-8581-1c17e1254eae"/>
+    <listType typeId="8e76d2ac-dcc5-4df5-aa06-cc296801652e" valueTypeId="7a6af98a-4547-4d85-bec3-ec25821010fc"/>
+    <managerType typeId="f0af95c6-58c1-4c50-969d-88a8c5dc98e1" valueTypeId="cc303213-52fb-4d93-bd84-c7cb41630c3e"/>
+  </producedTypes>
+  <name>Склады</name>
+  <synonym>
+    <key>ru</key>
+    <value>Склады (Одинаковые имена у объекта и его табличной части)</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Склады.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Склады.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <tabularSections uuid="7571e6e9-5fca-4bc4-8b40-75a2bdfa2778">
+    <producedTypes>
+      <objectType typeId="b573bed4-6c5a-4e2c-89a0-142c37efc8db" valueTypeId="0f969b8d-c03e-4b73-be2b-8ca4f77e46f0"/>
+      <rowType typeId="c9e4630e-3ccc-4518-aef2-134a0d997277" valueTypeId="c477f8aa-0bf1-4a9d-9d17-04a95ab18f62"/>
+    </producedTypes>
+    <name>Склады</name>
+    <synonym>
+      <key>ru</key>
+      <value>Склады</value>
+    </synonym>
+    <attributes uuid="695ad8de-bc35-4a44-95ae-7c0c92edc2c5">
+      <name>Склад</name>
+      <synonym>
+        <key>ru</key>
+        <value>Склад</value>
+      </synonym>
+      <type>
+        <types>CatalogRef.Склады</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <dataHistory>Use</dataHistory>
+      <fullTextSearch>Use</fullTextSearch>
+    </attributes>
+  </tabularSections>
+</mdclass:Catalog>

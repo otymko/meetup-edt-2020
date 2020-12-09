@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9b50c538-a970-4151-b763-098556cb63a3">
+  <producedTypes>
+    <refType typeId="75d0e135-525c-42e4-9cf6-743ed63507de" valueTypeId="2e3f0749-cda5-4ca8-bebf-f225b79d354b"/>
+    <listType typeId="27392da5-5bed-42f3-b46e-c17f162ac3a5" valueTypeId="5d1594d2-3b59-4230-a3da-34358faea7cc"/>
+    <managerType typeId="452e74eb-dda5-4c27-8801-bf794520827a" valueTypeId="522d7e1f-c82f-46fd-844c-0191dc18347f"/>
+  </producedTypes>
+  <name>ЗначенияРеквизитаОкончанияПроизводства</name>
+  <synonym>
+    <key>ru</key>
+    <value>Значения реквизита окончания производства</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="42dbe1b4-8d80-4143-9c97-0a507469a57f">
+    <name>z03</name>
+    <synonym>
+      <key>ru</key>
+      <value>Z03</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="81327f74-1243-4ef6-8f8a-3ec5c9d4c769">
+    <name>z04</name>
+    <synonym>
+      <key>ru</key>
+      <value>Z04</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
