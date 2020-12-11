@@ -46,6 +46,7 @@
   <dataProcessors>DataProcessor.БлокЕсли</dataProcessors>
   <dataProcessors>DataProcessor.СоединениеСВложеннымиЗапросами</dataProcessors>
   <dataProcessors>DataProcessor.ИспользованиеОбъединитьВЗапросах</dataProcessors>
+  <dataProcessors>DataProcessor.ХардкодСтрокПодключения</dataProcessors>
   <informationRegisters>InformationRegister.fs_ИсторияЗаменыФлагаDiscontinued</informationRegisters>
   <accumulationRegisters>AccumulationRegister.ТоварыВЯчейках</accumulationRegisters>
 </mdclass:Configuration>

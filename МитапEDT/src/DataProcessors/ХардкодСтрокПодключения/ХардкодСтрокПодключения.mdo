@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2a327162-fb31-4e97-bb92-15d3fff0b3b4">
+  <producedTypes>
+    <objectType typeId="6cf083d0-5641-49f0-a323-23847a38e9b7" valueTypeId="20129f1f-7981-4ed4-a544-2340933f85d7"/>
+    <managerType typeId="2b69cee2-4ed3-4b17-a86e-3e005b628944" valueTypeId="405483c8-816d-438a-b8ff-58dd4ccd720b"/>
+  </producedTypes>
+  <name>ХардкодСтрокПодключения</name>
+  <synonym>
+    <key>ru</key>
+    <value>Хардкод строк подключения</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DataProcessor>

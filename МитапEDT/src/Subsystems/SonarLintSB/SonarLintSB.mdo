@@ -10,5 +10,5 @@
   <content>DataProcessor.ХардкодПутей</content>
   <content>DataProcessor.НебезопасноеУдалениеИзКоллекции</content>
   <content>DataProcessor.ИспользованиеИлиВСекцииГде</content>
-  <content>Catalog.Склады</content>
+  <content>DataProcessor.ХардкодСтрокПодключения</content>
 </mdclass:Subsystem>
